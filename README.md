@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Estoy trabajando en Ser programador 
-- 🌱 Estoy aprendiendo Python
+- 🌱 Estoy aprendiendo Python y SQL
 - 🤔 Necesito ayuda con Javascript
 - 📫 Cómo contactarme: joshuedavidbarrios@gmail.com 
 - 💻 https://porkaliman.vercel.app/
